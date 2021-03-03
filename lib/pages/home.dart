@@ -59,7 +59,7 @@ class _HomeState extends State<Home> {
                     ),
 
               ),
-                  SizedBox(height: 20),
+                  SizedBox(height: 30), //size changed
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
